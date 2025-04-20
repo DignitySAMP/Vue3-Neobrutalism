@@ -1,13 +1,17 @@
 # Neobrutalism Vue
 
-These are some basic Vue components that you can use to build your Neobrutalism themed project. I was looking for something similar but couldn't find it specifically for Vue, only the React version, which you can find here: https://www.neobrutalism.dev
+> This is a work in progress. PR's are welcome but not necessary. This library will be released as an NPM package when it is production ready after testing.
 
-Speaking of which, all credits go to ekmas and his contributors. All of my design inspiration / reference comes from his project. All of the design and functionality ideas are exclusively inspired by his amazing library. 
+These are some basic Vue components that you can use to build your Neobrutalism themed project. I was looking for something similar but couldn't find it specifically for Vue, only the React version, which you can find here: https://www.neobrutalism.dev
 
 The only thing I have done is write some very basic components in Vue using his styling template. I am not an expert in Vue, the components are very basic and may require additional work before it is safe to be ran inside a production environment.
 
+> All credits go to ekmas and his contributors. All of my design inspiration / reference comes from his project. All of the design and functionality ideas are exclusively inspired by his amazing library. 
+
+
 # Installation
 
+work in progress
 
 # Tailwind config
 
